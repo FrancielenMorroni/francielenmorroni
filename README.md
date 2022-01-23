@@ -1,7 +1,8 @@
 ### Olá, Eu sou Francielen Morroni
 
-- 🔭 I’m currently working on Support.
-- 🌱 I’m currently learning about .net on C#..
+🌱 Estou aprendendo sobre C#..
+
+❤ Full stack por curiosidade e amor
 <div align="center">
   <a href="https://github.com/francielenmorroni">
   <img height="180em" width= "350cm" src="https://github-readme-stats.vercel.app/api?username=francielenmorroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,4 +1,4 @@
-### Olá, Eu sou Francielen Morroni
+### Hi, My name's Francielen Morroni
 
 🌱 Aprendendo todos os dias sobre C# e JavaScript..
 
